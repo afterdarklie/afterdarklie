@@ -6,14 +6,11 @@
 
 <p align="left">
 
-$${\color{#a1f2e0}\mathit{mostly}}$$
-$${\color{#92ece7}\mathit{afk.}}$$
-$${\color{#86e5ed}\text{I'm usually willing}}$$
-$${\color{#81ddf2}\text{to respond to messages}}$$
+$${\color{#a1f2e0}\mathit{mostly\ afk.}}$$ $${\color{#92ece7}\text{I'm usually willing to respond to messages}}$$
+
 <br><br>
 
-$${\color{#82d4f5}\mathit{w2i}}$$
-$${\color{#80c4e9}\mathit{only}}$$
+$${\color{#86e5ed}\mathit{w2i\ only}}$$
 
 <br><br>
 
@@ -21,8 +18,7 @@ $${\color{#80c4e9}\mathit{only}}$$
 
 <br><br>
 
-$${\color{#7fb4db}\mathit{c+h}}$$
-$${\color{#7ea4cc}\text{is strictly by permission only}}$$
+$${\color{#81ddf2}\mathit{c+h\ is}}$$ $${\color{#82d4f5}\text{strictly by permission only}}$$
 
 <br><br>
 
