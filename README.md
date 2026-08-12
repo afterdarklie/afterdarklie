@@ -16,10 +16,6 @@ $${\color{#86e5ed}\mathit{w2i\ only}}$$
 
 $${\color{#81ddf2}\text{ꕀ}}$$
 &nbsp; ' &nbsp;
-[𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski)
-&nbsp;
-<img src="https://64.media.tumblr.com/b06b0fb062cc4306cb26907c81e3f556/7afdfc5b20dca097-96/s75x75_c1/493401088659c0e27646383b9fc1b87f0cf40443.gif" width="20" align="center">
-&nbsp;
 [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
 &nbsp;
 <img src="https://64.media.tumblr.com/b06b0fb062cc4306cb26907c81e3f556/7afdfc5b20dca097-96/s75x75_c1/493401088659c0e27646383b9fc1b87f0cf40443.gif" width="20" align="center">
