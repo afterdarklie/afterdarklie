@@ -3,9 +3,6 @@
 <div align="left">ㅤ</div>
 <div align="left">ㅤ</div>
 <div align="left">ㅤ</div>
-<div align="left">ㅤ</div>
-<div align="left">ㅤ</div>
-<div align="left">ㅤ</div>
 
 <p align="left">
 
@@ -13,9 +10,7 @@ $${\color{#a1f2e0}\mathit{mostly}}$$
 $${\color{#92ece7}\mathit{afk.}}$$
 $${\color{#86e5ed}\text{I'm usually willing}}$$
 $${\color{#81ddf2}\text{to respond to messages}}$$
-<br>
-
-ㅤ
+<br><br>
 
 $${\color{#82d4f5}\mathit{w2i}}$$
 $${\color{#80c4e9}\mathit{only}}$$
