@@ -4,7 +4,7 @@
 
 <p align="center">
 
-$${\color{#a1f2e0}\mathit{mostly\ afk.}}$$ $${\color{#92ece7}\text{I'm usually willing to respond to messages}}$$
+$${\color{#a1f2e0}\mathit{mostly\ afk}}$$ $${\color{#92ece7}\text{I'm usually willing to respond to messages}}$$
 
 <br>
 
