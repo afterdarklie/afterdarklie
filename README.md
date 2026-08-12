@@ -1,3 +1,7 @@
+<img align="left" width="390" src="https://files.catbox.moe/cc5ads.png">
+
+<div align="left">ㅤ</div>
+
 <p align="center">
 
 $${\color{#a1f2e0}\mathit{mostly\ afk.}}$$ $${\color{#92ece7}\text{I'm usually willing to respond to messages}}$$
@@ -8,8 +12,7 @@ $${\color{#86e5ed}\mathit{w2i\ only}}$$
 
 <br>
 
-$${\color{#81ddf2}\mathit{c+h\ is}}$$
-$${\color{#82d4f5}\text{strictly by permission only}}$$
+$${\color{#81ddf2}\mathit{c+h\ is}}$$ $${\color{#82d4f5}\text{strictly by permission only}}$$
 
 <br>
 
