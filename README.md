@@ -17,7 +17,7 @@ $${\color{#80c4e9}\mathit{only}}$$
 
 <br><br>
 
-          ♡　♡　♡　♡　♡
+♡　♡　♡　♡　♡
 
 <br><br>
 
