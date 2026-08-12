@@ -18,11 +18,11 @@ $${\color{#86e5ed}\mathit{w2i\ only}}$$
 &nbsp;
 [𝗉𝗋𝗇𝗌](https://en.pronouns.page/@stockholmski#google_vignette)
 &nbsp; 
-<img src="https://64.media.tumblr.com/4fd35816fffe53ee652d5cc8e60b29ee/1bb1188b9f039f48-73/s75x75_c1/eb93d763439ceaaba8ee65b447120ec928699932.gifv" width="20" align="center">
+<img src="https://64.media.tumblr.com/b06b0fb062cc4306cb26907c81e3f556/7afdfc5b20dca097-96/s75x75_c1/493401088659c0e27646383b9fc1b87f0cf40443.gifv" width="20" align="center">
 &nbsp;
 [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
 &nbsp;
-<img src="https://64.media.tumblr.com/204cfeb8f36b1dd06763d6810e01946b/0ff21daacf0346e3-32/s75x75_c1/c15d4967e1400e05a3feaf2363c9cb9f02ddb084.gifv" width="20" align="center">
+<img src="https://64.media.tumblr.com/b06b0fb062cc4306cb26907c81e3f556/7afdfc5b20dca097-96/s75x75_c1/493401088659c0e27646383b9fc1b87f0cf40443.gifv" width="20" align="center">
 &nbsp;
 [strawpage](https://stockholmski.straw.page/)
 &nbsp; 彡   ῾  
