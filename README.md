@@ -1,3 +1,12 @@
+<img align="left" width="390" src="https://files.catbox.moe/cc5ads.png">
+
+<div align="left">ㅤ</div>
+<div align="left">ㅤ</div>
+<div align="left">ㅤ</div>
+<div align="left">ㅤ</div>
+
+<p align="center">
+
 $${\color{#a1f2e0}\mathit{mostly\ afk.}}$$ $${\color{#92ece7}\text{I'm usually willing to respond to messages}}$$
 
 <br><br>
@@ -24,3 +33,5 @@ $${\color{#81ddf2}\text{ꕀ}}$$
 [strawpage](https://stockholmski.straw.page/)
 &nbsp;
 $${\color{#80c4e9}\text{彡 ῾}}$$
+
+</p>
