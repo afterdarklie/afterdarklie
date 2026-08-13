@@ -16,10 +16,6 @@ $${\color{#81ddf2}\mathit{c+h\ is}}$$ $${\color{#82d4f5}\text{strictly by permis
 
 <br>
 
-$${\color{#80c4e9}\text{I'm quite asocial, so I may not interact much}}$$
-
-<br>
-
 $${\color{#81ddf2}\text{ꕀ}}$$
 &nbsp;
 [𝖺𝗍𝖺](https://stockholmski.atabook.org/)
